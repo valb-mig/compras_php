@@ -6,7 +6,7 @@
 <br>
 
 ## 📚 Sobre
-Metodo de Ultilizado: ```(GET)```
+Metodo ultilizado: ```(GET)```
 <p>Linguagens utilizadas.</p>
 
 <div align="left">
